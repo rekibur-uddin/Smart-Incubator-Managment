@@ -15,6 +15,9 @@ Built with **Kotlin** and powered by **Firebase**, this app ensures smooth, reli
 
 ---
 
+![Smart Incubator Demo](https://raw.githubusercontent.com/itsrekib/Smart-Incubator-Managment/main/demo.gif)
+
+
 ## ✨ Features
 
 ### 🔧 Inventory Management
