@@ -8,18 +8,17 @@ Built with **Kotlin** and powered by **Firebase**, this app ensures smooth, reli
 ---
 
 ## 📽️ Demo
-![Screenshot_2025-08-20-16-54-45-495_com app smartincubatormanagment](https://github.com/user-attachments/assets/b1d64e67-0735-4f58-9fa2-427c2462c5c8)
-![Screenshot_2025-08-20-16-54-50-709_com app smartincubatormanagment](https://github.com/user-attachments/assets/28ff78d0-2ab7-441d-8586-6be07e7f953d)
-![Screenshot_2025-08-20-16-55-50-221_com app smartincubatormanagment](https://github.com/user-attachments/assets/efc9cbd7-2d86-4800-967a-3e60bd6fb9c1)
-![Screenshot_2025-08-20-16-56-18-434_com app smartincubatormanagment](https://github.com/user-attachments/assets/0082135c-c903-4c59-9505-7e70100c01be)
-![Screenshot_2025-08-20-16-55-20-280_com app smartincubatormanagment](https://github.com/user-attachments/assets/7fabd21b-72d2-42af-8d9f-a2c6b70a4fe0)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b1d64e67-0735-4f58-9fa2-427c2462c5c8" width="250" />
+  <img src="https://github.com/user-attachments/assets/28ff78d0-2ab7-441d-8586-6be07e7f953d" width="250" />
+  <img src="https://github.com/user-attachments/assets/efc9cbd7-2d86-4800-967a-3e60bd6fb9c1" width="250" />
+</p>
 
-> 
-```markdown
-![demo](https://github.com/user-attachments/assets/56e87e69-341c-400e-afd8-7bd66b5c3aa2)
-
-````
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0082135c-c903-4c59-9505-7e70100c01be" width="250" />
+  <img src="https://github.com/user-attachments/assets/7fabd21b-72d2-42af-8d9f-a2c6b70a4fe0" width="250" />
+</p>
 
 ---
 
