@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198409749463",
+    "project_id": "smartincubator-managment",
+    "storage_bucket": "smartincubator-managment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198409749463:android:1b4ade630b6e14b1c28192",
+        "android_client_info": {
+          "package_name": "com.app.smartincubatormanagment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsoo6tJT6YrUfO-MF2XsjYb2TI2yFTFUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartIncubatorManagment" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_Color</item>
+        <item name="colorPrimaryVariant">@color/primary_Color</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:includeFontPadding">true</item>
+    </style>
+
+    <style name="Theme.SmartIncubatorManagment" parent="Base.Theme.SmartIncubatorManagment" />
+</resources>
