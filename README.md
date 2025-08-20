@@ -10,13 +10,10 @@ Built with **Kotlin** and powered by **Firebase**, this app ensures smooth, reli
 ## 📽️ Demo
 > 
 ```markdown
-![Smart Incubator Demo](https://raw.githubusercontent.com/itsrekib/Smart-Incubator-Managment/main/demo.gif)
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 ````
 
 ---
-
-![Smart Incubator Demo](https://raw.githubusercontent.com/itsrekib/Smart-Incubator-Managment/main/demo.gif)
-
 
 ## ✨ Features
 
