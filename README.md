@@ -1,5 +1,5 @@
 
-# 🐣 Smart Incubator Management App
+# 🐣 Smart Incubator Management App - by Rekibur Uddin
 
 A professional **Android application** for managing the complete lifecycle of incubators – from **inventory management** of machine parts to **building incubators**, tracking **sales history**, and generating **business reports**.  
 
